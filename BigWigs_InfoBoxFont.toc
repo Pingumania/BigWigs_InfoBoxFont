@@ -1,0 +1,12 @@
+## Interface: 90205
+## Title: BigWigs [|cffeda55fInfoBoxFont|r]
+## Notes: Change the font of the BigWigs InfoBox
+## Author: pngmn
+## Version: @project-version@
+## Dependencies: BigWigs, BigWigs_Core, BigWigs_Plugins
+## OptionalDeps: PhanxFont, ManiaUI
+## LoadOnDemand: 1
+## X-BigWigs-LoadOn-CoreEnabled: 1
+## X-BigWigs-LoadOn-Slash: /proximity, /range, /localbar, /raidbar, /pull, /break
+
+Core.lua
