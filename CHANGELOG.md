@@ -1,5 +1,11 @@
-### Changed in 9.0.5-2
+BigWigs_InfoBoxFont | 10.0.0-1
+------------------------------
+- ToC update for 10.0.0
+
+BigWigs_InfoBoxFont |  9.0.5-2
+------------------------------
 - Fixed broken toggles in config menu
 
-### Changed in 9.0.5-1
+BigWigs_InfoBoxFont |  9.0.5-1
+------------------------------
 - Public release
