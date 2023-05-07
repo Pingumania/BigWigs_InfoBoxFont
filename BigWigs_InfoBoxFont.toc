@@ -1,4 +1,4 @@
-## Interface: 100000
+## Interface: 100100
 ## Version: @project-version@
 
 ## Title: BigWigs [|cffeda55fInfoBoxFont|r]
